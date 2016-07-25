@@ -1,1 +1,1 @@
-index.es
+console.log('client start');
